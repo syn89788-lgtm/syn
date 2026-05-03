@@ -1,1 +1,8 @@
-
+flask
+requests
+pyTelegramBotAPI
+psutil
+schedule
+python-dotenv
+pytz
+pillow
