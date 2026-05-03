@@ -1,8 +1,1 @@
-flask
-requests
-pyTelegramBotAPI
-psutil
-schedule
-python-dotenv
-pytz
-pillow
+python-telegram-bot==21.6
