@@ -12,7 +12,7 @@ import urllib.parse
 import urllib.request
 from typing import Any, Dict, Optional
 
-BOT_TOKEN = "8787985203:AAFYqH5bf7PFglvwyKz0O7BgeSyccCnWAsY"
+BOT_TOKEN = "8787985203:AAHZRJN9jWrFK5WURY5VU9XBuDxiSg-gT-E"
 BOT_USERNAME = "RESPECTRAZEBOT"
 RAZERESPECT_URL = "https://t.me/RAZERESPECTBOT"
 BOT_VERSION = "OK_C7_ONE_INSTANCE_DEDUP_V18"
